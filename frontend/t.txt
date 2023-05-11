@@ -1,0 +1,3 @@
+npm install --global eas-cli && \
+cd lolfy && \
+eas init --id 37a209f3-712d-4110-8d0e-0a65c95830e5
