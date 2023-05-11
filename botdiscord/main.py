@@ -67,4 +67,4 @@ async def fazer_pergunta_com_botao(ctx: disnake.ApplicationCommandInteraction, p
     # Retornar a resposta escolhida
     return resposta_escolhida
 
-bot.run('MTA1MzEyNDY0NzI5NTY1MTg1MQ.GbEtSI.yxH0mFHlQ7--BnAu83BlPcdx0QSLICCLmkPOew')
+bot.run('Token de acesso')
